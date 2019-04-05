@@ -36,7 +36,7 @@ return [
                 | Edit to set the this group's title, will override global title
                 |--------------------------------------------------------------------------
                 */
-                'title' => 'Resimator Web Application Documenation UI',
+                'title' => 'Laravel Web Application Documenation UI',
             ],
             'routes' => [
                 /*
@@ -75,7 +75,7 @@ return [
                 | Edit to set the this group's title, will override global title
                 |--------------------------------------------------------------------------
                 */
-                'title' => 'Resimator Mobile API Documentation UI',
+                'title' => 'Laravel Mobile API Documentation UI',
             ],
             'routes' => [
                 /*
